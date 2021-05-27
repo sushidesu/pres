@@ -112,7 +112,20 @@ theme: uncover
 - トップページ SSG
 - 共有用ページ (OGP) SSR
 - OGP画像まわりが一番大変だった
-  - OGPNGを参考
+  - [sadnessOjisan/ogpng](https://github.com/sadnessOjisan/ogpng) を参考 (ほぼ一緒)
+  - [ソースコードからOGPを生成しシェアするOgp as a Serviceを作った(そして飽きたのでコードを公開する)](https://blog.ojisan.io/share-ogp)
+
+---
+
+![](../assets/create-niwatori-generator/structure01.png)
+
+<!--
+このNはニワトリのNではなく、Next.jsのNです
+-->
+
+---
+
+![](../assets/create-niwatori-generator/structure02.png)
 
 ---
 
