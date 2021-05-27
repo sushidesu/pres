@@ -12,7 +12,7 @@ theme: uncover
 
 # 自己紹介
 
-![h:100](/assets/create-niwatori-generator/sushidesu.jpg) 
+![h:100](/pres/assets/create-niwatori-generator/sushidesu.jpg) 
 
 - Tomoki Ishihara 
 - 北海道のクリーニング・雑貨を扱う会社 (2020/08〜)
@@ -41,7 +41,7 @@ theme: uncover
 
 ---
 
-![bg](/assets/create-niwatori-generator/concept.png)
+![bg](/pres/assets/create-niwatori-generator/concept.png)
 
 ---
 
@@ -51,19 +51,19 @@ theme: uncover
 
 ## 選ぶ
 
-![height:560px](/assets/create-niwatori-generator/erabu.png)
+![height:560px](/pres/assets/create-niwatori-generator/erabu.png)
 
 ---
 
 ## 作る
 
-![height:560px](/assets/create-niwatori-generator/tsukuru.png)
+![height:560px](/pres/assets/create-niwatori-generator/tsukuru.png)
 
 ---
 
 ## シェアする
 
-![height:560px](/assets/create-niwatori-generator/share.jpg)
+![height:560px](/pres/assets/create-niwatori-generator/share.jpg)
 
 ---
 
@@ -75,19 +75,19 @@ theme: uncover
 
 ## 投稿①
 
-![](/assets/create-niwatori-generator/cool01.jpg)
+![](/pres/assets/create-niwatori-generator/cool01.jpg)
 
 ---
 
 ## 投稿②
 
-![](/assets/create-niwatori-generator/cool02.jpg)
+![](/pres/assets/create-niwatori-generator/cool02.jpg)
 
 ---
 
 ## 投稿③
 
-![](/assets/create-niwatori-generator/cool03.jpg)
+![](/pres/assets/create-niwatori-generator/cool03.jpg)
 
 ---
 
@@ -117,7 +117,7 @@ theme: uncover
 
 ---
 
-![](/assets/create-niwatori-generator/structure01.png)
+![](/pres/assets/create-niwatori-generator/structure01.png)
 
 <!--
 このNはニワトリのNではなく、Next.jsのNです
@@ -125,7 +125,7 @@ theme: uncover
 
 ---
 
-![](/assets/create-niwatori-generator/structure02.png)
+![](/pres/assets/create-niwatori-generator/structure02.png)
 
 ---
 
