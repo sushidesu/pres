@@ -2,6 +2,7 @@
 marp: true
 paginate: true
 theme: uncover
+title: "庭には2羽ニワトリがいるジェネレーターを1週間で作った話"
 ---
 
 # 庭には2羽ニワトリがいるジェネレーターを1週間で作った話
