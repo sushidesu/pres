@@ -13,12 +13,11 @@ title: "庭には2羽ニワトリがいるジェネレーターを1週間で作�
 
 # 自己紹介
 
-![h:100](./assets/create-niwatori-generator/sushidesu.jpg) 
+![h:100](./assets/create-niwatori-generator/sushidesu.jpg)
 
-- Tomoki Ishihara 
+- Tomoki Ishihara (@_sushidesu)
 - 北海道のクリーニング・雑貨を扱う会社 (2020/08〜)
 - 社内向けの会計システムを開発中
-- 以前: 雑貨商品リスト管理/ネットショプの商品登録のアルバイト
 - Next.js, Firebase, Tailwind CSS, GraphCMS ← 好き
 
 ---
@@ -70,7 +69,7 @@ title: "庭には2羽ニワトリがいるジェネレーターを1週間で作�
 
 ## 「庭には〜」のいいところ
 
-### 自由
+### 制限がありつつも、自由
 
 ---
 
