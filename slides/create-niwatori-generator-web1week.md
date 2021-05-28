@@ -12,13 +12,13 @@ theme: uncover
 
 # 自己紹介
 
-![h:100](/pres/assets/create-niwatori-generator/sushidesu.jpg) 
+![h:100](./assets/create-niwatori-generator/sushidesu.jpg) 
 
 - Tomoki Ishihara 
 - 北海道のクリーニング・雑貨を扱う会社 (2020/08〜)
 - 社内向けの会計システムを開発中
 - 以前: 雑貨商品リスト管理/ネットショプの商品登録のアルバイト
-- Next.js, Firebase, Tailwind CSS, Graph CMS ← 好き
+- Next.js, Firebase, Tailwind CSS, GraphCMS ← 好き
 
 ---
 
@@ -41,7 +41,7 @@ theme: uncover
 
 ---
 
-![bg](/pres/assets/create-niwatori-generator/concept.png)
+![bg](./assets/create-niwatori-generator/concept.png)
 
 ---
 
@@ -51,19 +51,19 @@ theme: uncover
 
 ## 選ぶ
 
-![height:560px](/pres/assets/create-niwatori-generator/erabu.png)
+![height:560px](./assets/create-niwatori-generator/erabu.png)
 
 ---
 
 ## 作る
 
-![height:560px](/pres/assets/create-niwatori-generator/tsukuru.png)
+![height:560px](./assets/create-niwatori-generator/tsukuru.png)
 
 ---
 
 ## シェアする
 
-![height:560px](/pres/assets/create-niwatori-generator/share.jpg)
+![height:560px](./assets/create-niwatori-generator/share.jpg)
 
 ---
 
@@ -75,19 +75,19 @@ theme: uncover
 
 ## 投稿①
 
-![](/pres/assets/create-niwatori-generator/cool01.jpg)
+![](./assets/create-niwatori-generator/cool01.jpg)
 
 ---
 
 ## 投稿②
 
-![](/pres/assets/create-niwatori-generator/cool02.jpg)
+![](./assets/create-niwatori-generator/cool02.jpg)
 
 ---
 
 ## 投稿③
 
-![](/pres/assets/create-niwatori-generator/cool03.jpg)
+![](./assets/create-niwatori-generator/cool03.jpg)
 
 ---
 
@@ -117,7 +117,7 @@ theme: uncover
 
 ---
 
-![](/pres/assets/create-niwatori-generator/structure01.png)
+![](./assets/create-niwatori-generator/structure01.png)
 
 <!--
 このNはニワトリのNではなく、Next.jsのNです
@@ -125,7 +125,7 @@ theme: uncover
 
 ---
 
-![](/pres/assets/create-niwatori-generator/structure02.png)
+![](./assets/create-niwatori-generator/structure02.png)
 
 ---
 
