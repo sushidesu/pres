@@ -103,8 +103,8 @@ title: "庭には2羽ニワトリがいるジェネレーターを1週間で作�
 # 関連リンク
 
 - [庭には2羽ニワトリがいるジェネレーター](https://niwatori.dayo.app)
+  - コード: [sushidesu/niwatori-generator](https://github.com/sushidesu/niwatori-generator)
+  - 実装の参考: [ソースコードからOGPを生成しシェアするOgp as a Serviceを作った(そして飽きたのでコードを公開する)](https://blog.ojisan.io/share-ogp)
 - web1week
   - [Webサービスを1週間で作るイベント開催の概要 - Crieit](https://crieit.net/posts/Web-1)
   - [だら🎄リリース！ノベルゲーム風ムービーメーカーさん (@dala00) / Twitter](https://twitter.com/dala00)
-- 実装の参考
-  - [ソースコードからOGPを生成しシェアするOgp as a Serviceを作った(そして飽きたのでコードを公開する)](https://blog.ojisan.io/share-ogp)
