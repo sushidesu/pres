@@ -48,29 +48,19 @@ title: "庭には2羽ニワトリがいるジェネレーターを1週間で作�
 
 ---
 
-## 選ぶ → 作る → シェアする
+## 投稿①
+
+![](./assets/create-niwatori-generator/cool01.jpg)
 
 ---
 
-## 選ぶ
+## 投稿②
 
-![height:560px](./assets/create-niwatori-generator/erabu.png)
-
----
-
-## 作る
-
-![height:560px](./assets/create-niwatori-generator/tsukuru.png)
+![](./assets/create-niwatori-generator/cool02.jpg)
 
 ---
 
-## シェアする
-
-![height:560px](./assets/create-niwatori-generator/share.jpg)
-
----
-
-## 実際の投稿
+## 投稿③
 
 ![](./assets/create-niwatori-generator/cool03.jpg)
 
