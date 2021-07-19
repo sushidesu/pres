@@ -5,7 +5,11 @@
   "repository": "git@github.com:sushidesu/pres",
   "author": "sushidesu <hugemerge@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "marp -I slides -o docs && cpx slides/assets/** docs/assets"
+  },
   "devDependencies": {
-    "@marp-team/marp-cli": "^1.1.1"
+    "@marp-team/marp-cli": "^1.1.1",
+    "cpx": "^1.5.0"
   }
 }
