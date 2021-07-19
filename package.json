@@ -6,7 +6,7 @@
   "author": "sushidesu <hugemerge@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "marp -I slides -o docs && cpx slides/assets/** docs/assets"
+    "build": "marp -I slides -o docs && cpx \"slides/assets/**\" docs/assets"
   },
   "devDependencies": {
     "@marp-team/marp-cli": "^1.1.1",
